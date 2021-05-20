@@ -1,5 +1,5 @@
 #liste,sözlük ve demet veri türü gibi birden çok veri türünü birlikte barındıran veri tipidir. Kümeler(set) ile ilgili yaptığınız her türlü
-#işlevi(birleşme,kesişim vs.) bu veri tipi ile de yapabilrisiniz.
+#işlevii(birleşme,kesişim vs.) bu veri tipi ile de yapabilrisiniz.
 
 m={ "python",1,2,3,4,5,"learning","python","Icoding","python","python","java"}
 print(m) #çıktısında pythondan bir tane yazdırmış olucak.
